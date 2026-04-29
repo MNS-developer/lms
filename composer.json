@@ -1,0 +1,12 @@
+{
+    "name": "lms/mini-lms",
+    "description": "Role-Based Student Learning Management System",
+    "require": {
+        "php": ">=8.1"
+    },
+    "config": {
+        "platform": {
+            "php": "8.1"
+        }
+    }
+}
