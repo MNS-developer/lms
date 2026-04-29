@@ -240,6 +240,6 @@ MIT — Free to use and modify for academic and personal projects.
 
 ---
 
-## 👨‍💻 Built for:
+## 👨‍💻 Built for
 
 Learnix was built for eduational purpose.
